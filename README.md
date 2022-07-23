@@ -42,7 +42,7 @@
 
 <p><a href="https://www.buymeacoffee.com/mdmehedihasansr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdmehedihasansr" /></a><a href="https://ko-fi.com/mdmehedihasansr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mdmehedihasansr" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0mehedihasan&show_icons=true&locale=en&layout=compact" alt="0mehedihasan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0mehedihasan&show_icons=true&locale=en&layout=compact" alt="0mehedihasan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0mehedihasan&show_icons=true&locale=en" alt="0mehedihasan" /></p>
 
