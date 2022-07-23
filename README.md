@@ -48,25 +48,6 @@
 <p><img align="center" height="400" width="400"src="https://github-readme-stats.vercel.app/api/top-langs?username=0mehedihasan&show_icons=true&locale=en&layout=compact" alt="0mehedihasan" /></p>
 <br>
 <br>
-
-<p>
-  background: url(https://github-readme-stats.vercel.app/api?username=0mehedihasan&show_icons=true&locale=en) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
- </p>
-
-
-
-
-
-
-
-
-
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0mehedihasan&show_icons=true&locale=en" alt="0mehedihasan" /></p>
 
 
