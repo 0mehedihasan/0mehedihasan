@@ -6,7 +6,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0mehedihasan&label=Profile%20views&color=0e75b6&style=flat" alt="0mehedihasan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0mehedihasan&label=Profile%20views&color=0e75b6&style=flat" alt="0mehedihasan" /> 
+<a href="https://github.com/0mehedihasan?tab=followers"><img src="https://img.shields.io/github/followers/0mehedihasan?label=Followers&style=social" alt="GitHub Badge"></a></p>
 
 <p align="left"> <a href="https://twitter.com/mdmehedihasansr" target="blank"><img src="https://img.shields.io/twitter/follow/mdmehedihasansr?logo=twitter&style=for-the-badge" alt="mdmehedihasansr" /></a> </p>
 
