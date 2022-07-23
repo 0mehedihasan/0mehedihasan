@@ -49,13 +49,13 @@
 <br>
 <br>
 
-html { 
+<p>
   background: url(https://github-readme-stats.vercel.app/api?username=0mehedihasan&show_icons=true&locale=en) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  }
+ </p>
 
 
 
