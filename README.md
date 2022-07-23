@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hasan</h1>
 
 <h3 align="center">Thank you for your time.</h3>
-
+<img align="top" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0mehedihasan&label=Profile%20views&color=0e75b6&style=flat" alt="0mehedihasan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mdmehedihasansr" target="blank"><img src="https://img.shields.io/twitter/follow/mdmehedihasansr?logo=twitter&style=for-the-badge" alt="mdmehedihasansr" /></a> </p>
