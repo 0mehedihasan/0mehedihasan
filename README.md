@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hasan</h1>
 
 <h3 align="center">Thank you for your time.</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
