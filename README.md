@@ -44,10 +44,10 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/mdmehedihasansr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdmehedihasansr" /></a><a href="https://ko-fi.com/mdmehedihasansr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mdmehedihasansr" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mdmehedihasansr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdmehedihasansr" /></a><a href="https://ko-fi.com/mdmehedihasansr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mdmehedihasansr" /></a></p><br><br><br>
 
 ## 📊 My Github Stats
-  <br/>
+  <br>
     <a href="https://github.com/0mehedihasan/github-readme-stats"><img alt="Md Mehedi Hasan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0mehedihasan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/0mehedihasan/github-readme-stats"><img alt="Md. Mehedi Hasan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0mehedihasan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
