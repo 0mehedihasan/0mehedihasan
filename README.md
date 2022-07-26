@@ -10,6 +10,12 @@
 <a href="https://github.com/0mehedihasan?tab=followers"><img src="https://img.shields.io/github/followers/0mehedihasan?label=Followers&style=social" alt="GitHub Badge"></a></p>
 
 <p align="left"> <a href="https://twitter.com/mdmehedihasansr" target="blank"><img src="https://img.shields.io/twitter/follow/mdmehedihasansr?logo=twitter&style=for-the-badge" alt="mdmehedihasansr" /></a> </p>
+  
+<div align="center">
+                   
+## :man_technologist: About Me :
+   <h3>:man_technologist:
+ I'm a  Explorer | Creator | Developer | Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3> </div>
 
 - 🌱 I’m currently studying **CSE Undergraduate at Bangladesh University of Business and Technology (BUBT).**
 
@@ -60,8 +66,13 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
+<details>
+  <summary><b>📈&nbsp;&nbsp;Mehedi Hasan's&nbsp;/&nbsp;Activity Graph</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/0mehedihasan/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=0mehedihasan&padding=30&skills=css,html,python,c,c++'>
+  </a>
 
-<a href="https://github.com/0mehedihasan/github-readme-activity-graph"><img alt="Md Mehedi Hasan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0mehedihasan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+</details>
 <br/>
 <br/>
