@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hasan</h1>
 
-<h3 align="center">Thank you for your time.</h3>
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=2788B3&lines=Assalamu+Olaykum;I+hope+you+are+well.....;Thank+you+.....">
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
