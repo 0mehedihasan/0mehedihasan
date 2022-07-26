@@ -67,6 +67,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-<h2 align="center">Have a nice day...</h2>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/mvqQpPx/review.png" alt="wow" align="center" height="300" width="380" border="0"></a>
+<h2 align="center">Have a nice day...<br>
+<a href="https://imgbb.com/" align="center" ><img src="https://i.ibb.co/mvqQpPx/review.png" alt="wow" align="center" height="300" width="380" border="0"></a></h2>
 <br/>
