@@ -67,13 +67,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-<details>
-  <summary><b>📈&nbsp;&nbsp;Mehedi Hasan's&nbsp;/&nbsp;Activity Graph</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/0mehedihasan/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=0mehedihasan&padding=30&skills=css,html,python,c,c++'>
-  </a>
-
-</details>
-<br/>
+<h2 align="center">Have a nice day...</h2>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/mvqQpPx/review.png" alt="wow" align="center" height="300" width="380" border="0"></a>
 <br/>
