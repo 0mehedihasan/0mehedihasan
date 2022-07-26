@@ -14,6 +14,7 @@
 <div align="center">
                    
 ## :man_technologist: About Me :
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
    <h3>:man_technologist:
  I'm a  Explorer | Creator | Developer | Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3> </div>
 
