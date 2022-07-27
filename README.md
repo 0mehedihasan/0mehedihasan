@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/xJLctC6/1658919817149.png" height="175px"/></a>
+<div id="header" align="center">
+<a href="#" align="center"><img width="80%" height="auto" src="https://i.ibb.co/xJLctC6/1658919817149.png" align="center" height="100px"/></a>
+</div>
 <h1 align="center">Hi <img src=https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e4764u2rz802v8hbkh1rm0mh764ox5vibuhem67l7jn&rid=giphy.gif&ct=s" height="50px" width="40px"/>, I'm Md. Mehedi Hasan </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=2788B3&lines=Assalamu+Olaykum;I+hope+you+are+well.....;Thank+you+.....">
