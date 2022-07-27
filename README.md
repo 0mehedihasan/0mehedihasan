@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<a href="#" align="center"><img width="80%" height="auto" src="https://i.ibb.co/xJLctC6/1658919817149.png" align="center" height="100px"/></a>
+<a href="#" align="center"><img width="50%"  src="https://i.ibb.co/xJLctC6/1658919817149.png" align="center" height="50%"/></a>
 </div>
 <h1 align="center">Hi <img src=https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e4764u2rz802v8hbkh1rm0mh764ox5vibuhem67l7jn&rid=giphy.gif&ct=s" height="50px" width="40px"/>, I'm Md. Mehedi Hasan </h1>
 
