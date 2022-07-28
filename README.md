@@ -63,5 +63,5 @@
 <p><a href="https://www.buymeacoffee.com/mdmehedihasansr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdmehedihasansr" /></a><a href="https://ko-fi.com/mdmehedihasansr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mdmehedihasansr" /></a></p><br><br><br><br>
 
 <h2 align="center" height="auto" width="100%" border="10px" >Have a nice day...<br>
-<a href="https://imgbb.com/" align="center" ><img src="https://i.ibb.co/mvqQpPx/review.png" alt="wow" align="center" height="auto" width="100%" border="0"></a></h2>
+<a href="https://imgbb.com/" align="center" ><img src="https://i.ibb.co/mvqQpPx/review.png" alt="wow" align="center" height="50%" width="50%" border="0"></a></h2>
 <br/>
