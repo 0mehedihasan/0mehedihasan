@@ -32,7 +32,7 @@
 
 <a href="https://twitter.com/mdmehedihasansr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmehedihasansr" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/md-mehedi-hasan-895a03245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mehedi-hasan-895a03245" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/0mehedihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mehedi-hasan-895a03245" height="30" width="40" /></a>
 
 <a href="https://fb.com/mehedihasansr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedihasansr0" height="30" width="40" /></a>
 
