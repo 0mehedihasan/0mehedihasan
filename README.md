@@ -49,7 +49,7 @@
 <br>
 <h3 align="left">Mehedi Hasan's Holopin board:</h3>
 <a href="https://holopin.me/0mehedihasan"><img src="https://holopin.me/0mehedihasan" /></a><br/>
-
+<a href="https://stardev.io/developers/0mehedihasan"><img alt="Check out 0mehedihasan's profile on stardev.io" src="https://stardev.io/developers/0mehedihasan/badge/languages/global.svg" /></a>
 ## 📊 My Github Stats
   <br>
     <a href="https://github.com/0mehedihasan/github-readme-stats"><img alt="Md Mehedi Hasan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0mehedihasan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
